@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-322?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jay94588@gmail.com)
 
 
-### I am a Software Dev pursuing my Master Of Computer Application 
+### I am a Frontend Developer 
 
 - 🔭 I’m currently working on various projects and myself.
 - 👀 I’m interested in Learning New Things
