@@ -17,9 +17,9 @@
   <a href="https://portfolio-jay-ka32.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" />
   </a>
-  <a href="https://drive.google.com/file/d/1kS-ntmLfrw6RkO-3VACX_eQjAg0C3lSl/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge" />
-  </a>
+  <a href="https://drive.google.com/file/d/11dTjVk1jDooVbKRR_qpp7llvSVbvw3HI/view?usp=sharing">
+  <img src="https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge" />
+</a>
   <a href="https://www.linkedin.com/in/jay-kumar-yadav-3410aa264/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
